@@ -1,0 +1,24 @@
+.list-items-display-of-list {
+  width: 100%;
+  background-color: #1a171d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.text-name-item {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 24px;
+}
+.item-button {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #1a171d;
+  background-color: #f3aa4e;
+  border: none;
+  border-radius: 16px;
+  padding: 10px;
+  font-weight: 600;
+}

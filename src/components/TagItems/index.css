@@ -1,0 +1,16 @@
+.buttn-tags-list {
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+  border: 1px solid #f3aa4e;
+  padding: 5px;
+  border-radius: 18px;
+  cursor: pointer;
+}
+.list-items-in-tags-button {
+  margin: 10px;
+}
+.background-color-change {
+  background-color: #f3aa4e;
+}
